@@ -1,0 +1,16 @@
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/itog.md
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/itog.md.deps.json
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/itog.md.runtimeconfig.json
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/itog.md.dll
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/ref/itog.md.dll
+/Users/admin/Desktop/itog/itog.md/bin/Debug/net6.0/itog.md.pdb
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.GlobalUsings.g.cs
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.csproj.AssemblyReference.cache
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.AssemblyInfoInputs.cache
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.AssemblyInfo.cs
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.dll
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/ref/itog.md.dll
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.pdb
+/Users/admin/Desktop/itog/itog.md/obj/Debug/net6.0/itog.md.genruntimeconfig.cache
